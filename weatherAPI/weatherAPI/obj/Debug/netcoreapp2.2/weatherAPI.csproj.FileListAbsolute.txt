@@ -1,0 +1,14 @@
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.deps.json
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.runtimeconfig.json
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.runtimeconfig.dev.json
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.dll
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.pdb
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.csprojAssemblyReference.cache
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorAssemblyInfo.cache
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorAssemblyInfo.cs
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.AssemblyInfoInputs.cache
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.AssemblyInfo.cs
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.dll
+C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.pdb
