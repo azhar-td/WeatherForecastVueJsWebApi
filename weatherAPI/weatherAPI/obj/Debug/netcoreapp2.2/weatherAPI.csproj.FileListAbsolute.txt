@@ -12,3 +12,19 @@ C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\wea
 C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorTargetAssemblyInfo.cache
 C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.dll
 C:\Users\rafiqmuh\source\repos\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.pdb
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.deps.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.runtimeconfig.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.runtimeconfig.dev.json
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.dll
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\bin\Debug\netcoreapp2.2\weatherAPI.pdb
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.csprojAssemblyReference.cache
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorAssemblyInfo.cache
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorAssemblyInfo.cs
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.AssemblyInfoInputs.cache
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.AssemblyInfo.cs
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.RazorTargetAssemblyInfo.cache
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.dll
+D:\Drive\Practice Projects\JS Examples\WeatherForecastApp\weatherAPI\weatherAPI\obj\Debug\netcoreapp2.2\weatherAPI.pdb
